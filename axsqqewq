@@ -1,0 +1,78 @@
+[33mcommit 31d19d2ee6895ec7df0cee58e68bea8390eefc07[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Virat <virat35@gmail.com>
+Date:   Fri Apr 22 12:48:13 2022 +0000
+
+    imp files
+
+[1mdiff --git a/1.java b/1.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/1.txt b/1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/2.java b/2.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/2.txt b/2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 0d5c19fa59b7520c9b7ecc514344d75f33f0f618[m
+Author: Virat <virat35@gmail.com>
+Date:   Fri Apr 22 12:42:44 2022 +0000
+
+    ignorefiles
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6b468b6[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m*.class[m
+
+[33mcommit b520c016b14c6202fe3ab53536472063480e73ab[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Virat <virat35@gmail.com>
+Date:   Fri Apr 22 12:09:26 2022 +0000
+
+    Second commit from virgenia
+
+[1mdiff --git a/myfile b/myfile[m
+[1mindex 93c93e1..2132ace 100644[m
+[1m--- a/myfile[m
+[1m+++ b/myfile[m
+[36m@@ -1,3 +1,5 @@[m
+ First line from sydney[m
+ [m
+ First line from virgenia[m
+[32m+[m
+[32m+[m[32mSecond lne from virgenia[m
+
+[33mcommit 32ff154831f9d699701382ce96e9f61c106399aa[m
+Author: Virat <virat35@gmail.com>
+Date:   Fri Apr 22 08:14:43 2022 +0000
+
+    First commit from virgenia
+
+[1mdiff --git a/myfile b/myfile[m
+[1mindex 53b6217..93c93e1 100644[m
+[1m--- a/myfile[m
+[1m+++ b/myfile[m
+[36m@@ -1 +1,3 @@[m
+ First line from sydney[m
+[32m+[m
+[32m+[m[32mFirst line from virgenia[m
+
+[33mcommit b4ebd48d7187c423837212c654c3079b4f980a19[m
+Author: Karthik <Karthikg@gmail.com>
+Date:   Fri Apr 22 06:09:47 2022 +0000
+
+    First commit from sydney
+
+[1mdiff --git a/myfile b/myfile[m
+[1mnew file mode 100644[m
+[1mindex 0000000..53b6217[m
+[1m--- /dev/null[m
+[1m+++ b/myfile[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mFirst line from sydney[m
